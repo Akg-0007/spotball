@@ -3,4 +3,4 @@ React js,
 React hooks and 
 Material ui
 hosted at
-https://radiant-kitten-aef20d.netlify.app/
+https://frolicking-cuchufli-d66efe.netlify.app/
